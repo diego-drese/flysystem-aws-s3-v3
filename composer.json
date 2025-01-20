@@ -16,7 +16,8 @@
     },
     "conflict": {
         "guzzlehttp/ringphp": "<1.1.1",
-        "guzzlehttp/guzzle": "<7.0"
+        "guzzlehttp/guzzle": "<7.0",
+        "aws/aws-sdk-php": ">3.336.13"
     },
     "license": "MIT",
     "authors": [
